@@ -1,1 +1,1 @@
-# .github
+# Terms of use
