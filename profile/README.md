@@ -1,4 +1,5 @@
-## Hi there 👋
+## The terms of use for this Organisation are covered by https://github.com/customer-terms/github-copilot-product-specific-terms 
+
 
 <!--
 
